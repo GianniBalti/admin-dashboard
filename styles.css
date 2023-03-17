@@ -35,6 +35,7 @@ body {
 .top-search {
     display: grid;
     grid-template:repeat(1 , 1fr) / repeat(1, 40px) repeat(1, 8fr) repeat(1, 1fr) repeat(1 , 50px) repeat(1, 80px) repeat(1, 2fr);
+    padding-top: 1rem;
     justify-content: center;
     align-items: center;
 }
